@@ -7,9 +7,8 @@
 **Comandos usados:**
 
 nc localhost 30000
-MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 
 **Notas:** Netcat permite crear conexiones TCP/UDP, abrir puertos, transferir...
 localhost indica el propio equipo, en este caso sustituye a la IP
 
-**Contraseña:** 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+**Contraseña:** pbLYuZtTg4MgaqfJx8jbA9gKKGqM68A7

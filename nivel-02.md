@@ -13,4 +13,4 @@ cat ./--spaces in this filename--
 
 **Notas:** Usar la ruta completa y autocompletar con el Tab
 
-**Contraseña:** MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+**Contraseña:** 7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME

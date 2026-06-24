@@ -10,4 +10,4 @@ strings data.txt | grep "==="
 
 **Notas:** Strings extrae cadenas de texto legibles, una vez con este formato, permite buscar por lineas con grep
 
-**Contraseña:** FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+**Contraseña:** B0s2khmbT9u0geKuOoVGW3JZKhndE3BG

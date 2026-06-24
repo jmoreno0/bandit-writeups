@@ -11,4 +11,4 @@ cat data.txt | tr "a-zA-Z" "n-za-mN-ZA-M"
 **Notas:** En este caso, el man tr es un poco confuso, me ha sido mas util buscar por otro lado
 Es importante hacer la traduccion de las mayusculas de forma explícita, ya que si no no se traducen
 
-**Contraseña:** 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+**Contraseña:** GROozWPO8QyN0mGrjUkID0WCYkZiQxrN

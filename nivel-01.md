@@ -13,4 +13,4 @@ cat ./-
 
 **Notas:** Para abrir archivos que tienen nombres que pueden confundirse, lo mejor es poner la ruta entera, en este caso, . indica donde estás ahora (./-)
 
-**Contraseña:** 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+**Contraseña:** PK8fYLZg2hnHSz83plBL1iEPKdD3QToB

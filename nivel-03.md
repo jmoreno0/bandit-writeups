@@ -15,4 +15,4 @@ cat ./...Hiding-From-You
 
 **Notas:** usar la flag -a muestra carpetas y archivos ocultos
 
-**Contraseña:** 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+**Contraseña:** xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq

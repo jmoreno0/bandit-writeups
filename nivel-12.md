@@ -36,4 +36,4 @@ cat data8
 
 **Notas:** El principio es usar file para sacar el tipo de archivo, renombrarlos con mv para poder decodificar la compresion e ir haciendo esto varias veces hasta llegar al ASCII
 
-**Contraseña:** FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+**Contraseña:** qQYQiHOBPR8zR61qxYqX45quvihF2uzk

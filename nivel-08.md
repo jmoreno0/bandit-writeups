@@ -10,4 +10,4 @@ sort data.txt | uniq -u
 
 **Notas:** Usar | permite redirigir la salida de un comando hacia el siguiente, en este caso, con sort se agrupan las lineas iguales, luego sort comprueba cuales se repiten entre las contiguas y con -u muestra solo las que no se repiten
 
-**Contraseña:** 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+**Contraseña:** EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl

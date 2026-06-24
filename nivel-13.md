@@ -14,4 +14,4 @@ ssh bandit14@bandit.labs.overthewire.org -p 2220 -i sshkey.private
 
 **Notas:** Con la clave privada puedes acceder a servidores sin la contraseña, pero necesita que los permisos esten en 600, se pueden cambiar con chmod
 
-**Contraseña:** MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
+**Contraseña:** aaWecNkG4FhxJQxz07uiwzVP6bJiYS65

@@ -21,4 +21,4 @@ cat ./.file2
 **Notas:** Se usa find con la flag size para filtrar el tamaño, con ! indico que lo siguiente es lo contrario, en este caso, no ejecutable
 usar tab 2 veces muestra posibles opciones, como autocompletar el comando con varias opciones 
 
-**Contraseña:** HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+**Contraseña:** pXa26xhMWaC2SvDotA4r9EgZkulOeSBW

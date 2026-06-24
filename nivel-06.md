@@ -14,4 +14,4 @@ find / -size 33c -user bandit7 -group bandit6 2>/dev/null
 
 **Notas:** find / indica una busqueda en todo sistema desde el directorio principal, usar 2>/dev/null para descartar los errores
 
-**Contraseña:** morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+**Contraseña:** Bmnnvf82KzQlfxgAI2d1zYbr1u9pr3E3
