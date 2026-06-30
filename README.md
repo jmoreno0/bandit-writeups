@@ -17,4 +17,6 @@ Nivel 13 -  Completado
 Nivel 14 -  Completado
 Nivel 15 -  Completado
 Nivel 16 -  Completado
-Nivel 17 -  En proceso
+Nivel 17 -  Completado
+Nivel 18 -  Completado
+Nivel 19 -  En proceso
