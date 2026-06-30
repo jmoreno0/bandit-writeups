@@ -8,7 +8,7 @@
 
 nmap -A -T3 -p 31000-32000 localhost
 openssl s_client -quiet -connect localhost:31790
-echo "kS0Hf0u5HiXFwKMKFqXvPdOTNGGa0X8V" | openssl s_client -quiet -connect localhost:31790 2>/dev/null | sed -n "/BEGIN/,/END/p" > /tmp/clave17.key 
+echo "kS0Hf0u5HiXFwKMKFqXvPdOTNGGa0X8V" | ncat --ssl localhost 31790 > /tmp/clave17.key 
 scp -P 2220 bandit16@bandit.labs.overthewire.org:/tmp/clave17.key .
 chmod 600 clave17.key
 
